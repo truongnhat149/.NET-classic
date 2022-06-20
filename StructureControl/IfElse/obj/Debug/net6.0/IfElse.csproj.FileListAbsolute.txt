@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\StructureControl\IfElse\bin\Debug\net6.0\IfElse.exe
+D:\Workspace\c-sharp\StructureControl\IfElse\bin\Debug\net6.0\IfElse.deps.json
+D:\Workspace\c-sharp\StructureControl\IfElse\bin\Debug\net6.0\IfElse.runtimeconfig.json
+D:\Workspace\c-sharp\StructureControl\IfElse\bin\Debug\net6.0\IfElse.dll
+D:\Workspace\c-sharp\StructureControl\IfElse\bin\Debug\net6.0\IfElse.pdb
+D:\Workspace\c-sharp\StructureControl\IfElse\obj\Debug\net6.0\IfElse.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\StructureControl\IfElse\obj\Debug\net6.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\StructureControl\IfElse\obj\Debug\net6.0\IfElse.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\StructureControl\IfElse\obj\Debug\net6.0\IfElse.AssemblyInfo.cs
+D:\Workspace\c-sharp\StructureControl\IfElse\obj\Debug\net6.0\IfElse.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\StructureControl\IfElse\obj\Debug\net6.0\IfElse.dll
+D:\Workspace\c-sharp\StructureControl\IfElse\obj\Debug\net6.0\refint\IfElse.dll
+D:\Workspace\c-sharp\StructureControl\IfElse\obj\Debug\net6.0\IfElse.pdb
+D:\Workspace\c-sharp\StructureControl\IfElse\obj\Debug\net6.0\IfElse.genruntimeconfig.cache
+D:\Workspace\c-sharp\StructureControl\IfElse\obj\Debug\net6.0\ref\IfElse.dll

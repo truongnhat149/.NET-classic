@@ -1,0 +1,5 @@
+D:\Workspace\c-sharp\Array_String\Enum\obj\Debug\net6.0\Enum.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\Array_String\Enum\obj\Debug\net6.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\Array_String\Enum\obj\Debug\net6.0\Enum.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\Array_String\Enum\obj\Debug\net6.0\Enum.AssemblyInfo.cs
+D:\Workspace\c-sharp\Array_String\Enum\obj\Debug\net6.0\Enum.csproj.CoreCompileInputs.cache

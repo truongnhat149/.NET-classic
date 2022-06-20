@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\Classic.TestConsolelog\ReadLine\bin\Debug\net6.0\ReadLine.exe
+D:\Workspace\c-sharp\Classic.TestConsolelog\ReadLine\bin\Debug\net6.0\ReadLine.deps.json
+D:\Workspace\c-sharp\Classic.TestConsolelog\ReadLine\bin\Debug\net6.0\ReadLine.runtimeconfig.json
+D:\Workspace\c-sharp\Classic.TestConsolelog\ReadLine\bin\Debug\net6.0\ReadLine.dll
+D:\Workspace\c-sharp\Classic.TestConsolelog\ReadLine\bin\Debug\net6.0\ReadLine.pdb
+D:\Workspace\c-sharp\Classic.TestConsolelog\ReadLine\obj\Debug\net6.0\ReadLine.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\Classic.TestConsolelog\ReadLine\obj\Debug\net6.0\ReadLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\Classic.TestConsolelog\ReadLine\obj\Debug\net6.0\ReadLine.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\Classic.TestConsolelog\ReadLine\obj\Debug\net6.0\ReadLine.AssemblyInfo.cs
+D:\Workspace\c-sharp\Classic.TestConsolelog\ReadLine\obj\Debug\net6.0\ReadLine.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\Classic.TestConsolelog\ReadLine\obj\Debug\net6.0\ReadLine.dll
+D:\Workspace\c-sharp\Classic.TestConsolelog\ReadLine\obj\Debug\net6.0\refint\ReadLine.dll
+D:\Workspace\c-sharp\Classic.TestConsolelog\ReadLine\obj\Debug\net6.0\ReadLine.pdb
+D:\Workspace\c-sharp\Classic.TestConsolelog\ReadLine\obj\Debug\net6.0\ReadLine.genruntimeconfig.cache
+D:\Workspace\c-sharp\Classic.TestConsolelog\ReadLine\obj\Debug\net6.0\ref\ReadLine.dll

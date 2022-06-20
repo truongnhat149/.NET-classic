@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\Array_String\String\obj\Debug\net6.0\String.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\Array_String\String\obj\Debug\net6.0\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\Array_String\String\obj\Debug\net6.0\String.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\Array_String\String\obj\Debug\net6.0\String.AssemblyInfo.cs
+D:\Workspace\c-sharp\Array_String\String\obj\Debug\net6.0\String.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\Array_String\String\bin\Debug\net6.0\String.exe
+D:\Workspace\c-sharp\Array_String\String\bin\Debug\net6.0\String.deps.json
+D:\Workspace\c-sharp\Array_String\String\bin\Debug\net6.0\String.runtimeconfig.json
+D:\Workspace\c-sharp\Array_String\String\bin\Debug\net6.0\String.dll
+D:\Workspace\c-sharp\Array_String\String\bin\Debug\net6.0\String.pdb
+D:\Workspace\c-sharp\Array_String\String\obj\Debug\net6.0\String.dll
+D:\Workspace\c-sharp\Array_String\String\obj\Debug\net6.0\refint\String.dll
+D:\Workspace\c-sharp\Array_String\String\obj\Debug\net6.0\String.pdb
+D:\Workspace\c-sharp\Array_String\String\obj\Debug\net6.0\String.genruntimeconfig.cache
+D:\Workspace\c-sharp\Array_String\String\obj\Debug\net6.0\ref\String.dll

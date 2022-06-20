@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\Classic.TestConsolelog\TestConsolelog\bin\Debug\net6.0\TestConsolelog.exe
+D:\Workspace\c-sharp\Classic.TestConsolelog\TestConsolelog\bin\Debug\net6.0\TestConsolelog.deps.json
+D:\Workspace\c-sharp\Classic.TestConsolelog\TestConsolelog\bin\Debug\net6.0\TestConsolelog.runtimeconfig.json
+D:\Workspace\c-sharp\Classic.TestConsolelog\TestConsolelog\bin\Debug\net6.0\TestConsolelog.dll
+D:\Workspace\c-sharp\Classic.TestConsolelog\TestConsolelog\bin\Debug\net6.0\TestConsolelog.pdb
+D:\Workspace\c-sharp\Classic.TestConsolelog\TestConsolelog\obj\Debug\net6.0\TestConsolelog.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\Classic.TestConsolelog\TestConsolelog\obj\Debug\net6.0\TestConsolelog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\Classic.TestConsolelog\TestConsolelog\obj\Debug\net6.0\TestConsolelog.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\Classic.TestConsolelog\TestConsolelog\obj\Debug\net6.0\TestConsolelog.AssemblyInfo.cs
+D:\Workspace\c-sharp\Classic.TestConsolelog\TestConsolelog\obj\Debug\net6.0\TestConsolelog.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\Classic.TestConsolelog\TestConsolelog\obj\Debug\net6.0\TestConsolelog.dll
+D:\Workspace\c-sharp\Classic.TestConsolelog\TestConsolelog\obj\Debug\net6.0\refint\TestConsolelog.dll
+D:\Workspace\c-sharp\Classic.TestConsolelog\TestConsolelog\obj\Debug\net6.0\TestConsolelog.pdb
+D:\Workspace\c-sharp\Classic.TestConsolelog\TestConsolelog\obj\Debug\net6.0\TestConsolelog.genruntimeconfig.cache
+D:\Workspace\c-sharp\Classic.TestConsolelog\TestConsolelog\obj\Debug\net6.0\ref\TestConsolelog.dll

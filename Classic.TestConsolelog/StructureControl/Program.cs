@@ -1,0 +1,7 @@
+﻿namespace StructureControl
+{
+    class IfElfe
+    {
+
+    }
+}
