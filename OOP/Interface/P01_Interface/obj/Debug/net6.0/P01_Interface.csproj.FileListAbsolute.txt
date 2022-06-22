@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\OOP\Interface\P01_Interface\bin\Debug\net6.0\P01_Interface.exe
+D:\Workspace\c-sharp\OOP\Interface\P01_Interface\bin\Debug\net6.0\P01_Interface.deps.json
+D:\Workspace\c-sharp\OOP\Interface\P01_Interface\bin\Debug\net6.0\P01_Interface.runtimeconfig.json
+D:\Workspace\c-sharp\OOP\Interface\P01_Interface\bin\Debug\net6.0\P01_Interface.dll
+D:\Workspace\c-sharp\OOP\Interface\P01_Interface\bin\Debug\net6.0\P01_Interface.pdb
+D:\Workspace\c-sharp\OOP\Interface\P01_Interface\obj\Debug\net6.0\P01_Interface.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\OOP\Interface\P01_Interface\obj\Debug\net6.0\P01_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\OOP\Interface\P01_Interface\obj\Debug\net6.0\P01_Interface.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\OOP\Interface\P01_Interface\obj\Debug\net6.0\P01_Interface.AssemblyInfo.cs
+D:\Workspace\c-sharp\OOP\Interface\P01_Interface\obj\Debug\net6.0\P01_Interface.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\OOP\Interface\P01_Interface\obj\Debug\net6.0\P01_Interface.dll
+D:\Workspace\c-sharp\OOP\Interface\P01_Interface\obj\Debug\net6.0\refint\P01_Interface.dll
+D:\Workspace\c-sharp\OOP\Interface\P01_Interface\obj\Debug\net6.0\P01_Interface.pdb
+D:\Workspace\c-sharp\OOP\Interface\P01_Interface\obj\Debug\net6.0\P01_Interface.genruntimeconfig.cache
+D:\Workspace\c-sharp\OOP\Interface\P01_Interface\obj\Debug\net6.0\ref\P01_Interface.dll

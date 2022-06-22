@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_OperatorOverload", "P01_OperatorOverload\P01_OperatorOverload.csproj", "{9BFFF53C-2099-479A-8219-FC5BACB4C6FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_IndexerOverload", "P02_IndexerOverload\P02_IndexerOverload.csproj", "{B7ABFCF5-2E74-4D40-866D-824BF63C7DF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BFFF53C-2099-479A-8219-FC5BACB4C6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BFFF53C-2099-479A-8219-FC5BACB4C6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BFFF53C-2099-479A-8219-FC5BACB4C6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BFFF53C-2099-479A-8219-FC5BACB4C6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7ABFCF5-2E74-4D40-866D-824BF63C7DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7ABFCF5-2E74-4D40-866D-824BF63C7DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7ABFCF5-2E74-4D40-866D-824BF63C7DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7ABFCF5-2E74-4D40-866D-824BF63C7DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A72B0C6-3D85-482B-8FC3-2259AF9CB44E}
+	EndGlobalSection
+EndGlobal

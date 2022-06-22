@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\OOP\S07_Method\P03_Params\bin\Debug\net6.0\P03_Params.exe
+D:\Workspace\c-sharp\OOP\S07_Method\P03_Params\bin\Debug\net6.0\P03_Params.deps.json
+D:\Workspace\c-sharp\OOP\S07_Method\P03_Params\bin\Debug\net6.0\P03_Params.runtimeconfig.json
+D:\Workspace\c-sharp\OOP\S07_Method\P03_Params\bin\Debug\net6.0\P03_Params.dll
+D:\Workspace\c-sharp\OOP\S07_Method\P03_Params\bin\Debug\net6.0\P03_Params.pdb
+D:\Workspace\c-sharp\OOP\S07_Method\P03_Params\obj\Debug\net6.0\P03_Params.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\OOP\S07_Method\P03_Params\obj\Debug\net6.0\P03_Params.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\OOP\S07_Method\P03_Params\obj\Debug\net6.0\P03_Params.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\OOP\S07_Method\P03_Params\obj\Debug\net6.0\P03_Params.AssemblyInfo.cs
+D:\Workspace\c-sharp\OOP\S07_Method\P03_Params\obj\Debug\net6.0\P03_Params.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\OOP\S07_Method\P03_Params\obj\Debug\net6.0\P03_Params.dll
+D:\Workspace\c-sharp\OOP\S07_Method\P03_Params\obj\Debug\net6.0\refint\P03_Params.dll
+D:\Workspace\c-sharp\OOP\S07_Method\P03_Params\obj\Debug\net6.0\P03_Params.pdb
+D:\Workspace\c-sharp\OOP\S07_Method\P03_Params\obj\Debug\net6.0\P03_Params.genruntimeconfig.cache
+D:\Workspace\c-sharp\OOP\S07_Method\P03_Params\obj\Debug\net6.0\ref\P03_Params.dll

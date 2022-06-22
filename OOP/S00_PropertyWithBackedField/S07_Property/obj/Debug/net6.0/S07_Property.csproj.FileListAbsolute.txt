@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S07_Property\bin\Debug\net6.0\S07_Property.exe
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S07_Property\bin\Debug\net6.0\S07_Property.deps.json
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S07_Property\bin\Debug\net6.0\S07_Property.runtimeconfig.json
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S07_Property\bin\Debug\net6.0\S07_Property.dll
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S07_Property\bin\Debug\net6.0\S07_Property.pdb
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S07_Property\obj\Debug\net6.0\S07_Property.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S07_Property\obj\Debug\net6.0\S07_Property.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S07_Property\obj\Debug\net6.0\S07_Property.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S07_Property\obj\Debug\net6.0\S07_Property.AssemblyInfo.cs
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S07_Property\obj\Debug\net6.0\S07_Property.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S07_Property\obj\Debug\net6.0\S07_Property.dll
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S07_Property\obj\Debug\net6.0\refint\S07_Property.dll
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S07_Property\obj\Debug\net6.0\S07_Property.pdb
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S07_Property\obj\Debug\net6.0\S07_Property.genruntimeconfig.cache
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S07_Property\obj\Debug\net6.0\ref\S07_Property.dll

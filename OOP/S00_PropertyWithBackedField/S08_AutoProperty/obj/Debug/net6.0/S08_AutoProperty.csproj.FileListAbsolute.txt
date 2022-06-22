@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S08_AutoProperty\bin\Debug\net6.0\S08_AutoProperty.exe
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S08_AutoProperty\bin\Debug\net6.0\S08_AutoProperty.deps.json
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S08_AutoProperty\bin\Debug\net6.0\S08_AutoProperty.runtimeconfig.json
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S08_AutoProperty\bin\Debug\net6.0\S08_AutoProperty.dll
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S08_AutoProperty\bin\Debug\net6.0\S08_AutoProperty.pdb
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S08_AutoProperty\obj\Debug\net6.0\S08_AutoProperty.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S08_AutoProperty\obj\Debug\net6.0\S08_AutoProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S08_AutoProperty\obj\Debug\net6.0\S08_AutoProperty.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S08_AutoProperty\obj\Debug\net6.0\S08_AutoProperty.AssemblyInfo.cs
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S08_AutoProperty\obj\Debug\net6.0\S08_AutoProperty.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S08_AutoProperty\obj\Debug\net6.0\S08_AutoProperty.dll
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S08_AutoProperty\obj\Debug\net6.0\refint\S08_AutoProperty.dll
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S08_AutoProperty\obj\Debug\net6.0\S08_AutoProperty.pdb
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S08_AutoProperty\obj\Debug\net6.0\S08_AutoProperty.genruntimeconfig.cache
+D:\Workspace\c-sharp\OOP\S00_PropertyWithBackedField\S08_AutoProperty\obj\Debug\net6.0\ref\S08_AutoProperty.dll

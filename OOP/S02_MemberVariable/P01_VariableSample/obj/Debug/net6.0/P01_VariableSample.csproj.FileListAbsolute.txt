@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\S02_MemberVariable\P01_VariableSample\bin\Debug\net6.0\P01_VariableSample.exe
+D:\Workspace\c-sharp\S02_MemberVariable\P01_VariableSample\bin\Debug\net6.0\P01_VariableSample.deps.json
+D:\Workspace\c-sharp\S02_MemberVariable\P01_VariableSample\bin\Debug\net6.0\P01_VariableSample.runtimeconfig.json
+D:\Workspace\c-sharp\S02_MemberVariable\P01_VariableSample\bin\Debug\net6.0\P01_VariableSample.dll
+D:\Workspace\c-sharp\S02_MemberVariable\P01_VariableSample\bin\Debug\net6.0\P01_VariableSample.pdb
+D:\Workspace\c-sharp\S02_MemberVariable\P01_VariableSample\obj\Debug\net6.0\P01_VariableSample.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\S02_MemberVariable\P01_VariableSample\obj\Debug\net6.0\P01_VariableSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\S02_MemberVariable\P01_VariableSample\obj\Debug\net6.0\P01_VariableSample.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\S02_MemberVariable\P01_VariableSample\obj\Debug\net6.0\P01_VariableSample.AssemblyInfo.cs
+D:\Workspace\c-sharp\S02_MemberVariable\P01_VariableSample\obj\Debug\net6.0\P01_VariableSample.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\S02_MemberVariable\P01_VariableSample\obj\Debug\net6.0\P01_VariableSample.dll
+D:\Workspace\c-sharp\S02_MemberVariable\P01_VariableSample\obj\Debug\net6.0\refint\P01_VariableSample.dll
+D:\Workspace\c-sharp\S02_MemberVariable\P01_VariableSample\obj\Debug\net6.0\P01_VariableSample.pdb
+D:\Workspace\c-sharp\S02_MemberVariable\P01_VariableSample\obj\Debug\net6.0\P01_VariableSample.genruntimeconfig.cache
+D:\Workspace\c-sharp\S02_MemberVariable\P01_VariableSample\obj\Debug\net6.0\ref\P01_VariableSample.dll

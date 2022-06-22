@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\OOP\Class\P01_NestedClass\bin\Debug\net6.0\P01_NestedClass.exe
+D:\Workspace\c-sharp\OOP\Class\P01_NestedClass\bin\Debug\net6.0\P01_NestedClass.deps.json
+D:\Workspace\c-sharp\OOP\Class\P01_NestedClass\bin\Debug\net6.0\P01_NestedClass.runtimeconfig.json
+D:\Workspace\c-sharp\OOP\Class\P01_NestedClass\bin\Debug\net6.0\P01_NestedClass.dll
+D:\Workspace\c-sharp\OOP\Class\P01_NestedClass\bin\Debug\net6.0\P01_NestedClass.pdb
+D:\Workspace\c-sharp\OOP\Class\P01_NestedClass\obj\Debug\net6.0\P01_NestedClass.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\OOP\Class\P01_NestedClass\obj\Debug\net6.0\P01_NestedClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\OOP\Class\P01_NestedClass\obj\Debug\net6.0\P01_NestedClass.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\OOP\Class\P01_NestedClass\obj\Debug\net6.0\P01_NestedClass.AssemblyInfo.cs
+D:\Workspace\c-sharp\OOP\Class\P01_NestedClass\obj\Debug\net6.0\P01_NestedClass.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\OOP\Class\P01_NestedClass\obj\Debug\net6.0\P01_NestedClass.dll
+D:\Workspace\c-sharp\OOP\Class\P01_NestedClass\obj\Debug\net6.0\refint\P01_NestedClass.dll
+D:\Workspace\c-sharp\OOP\Class\P01_NestedClass\obj\Debug\net6.0\P01_NestedClass.pdb
+D:\Workspace\c-sharp\OOP\Class\P01_NestedClass\obj\Debug\net6.0\P01_NestedClass.genruntimeconfig.cache
+D:\Workspace\c-sharp\OOP\Class\P01_NestedClass\obj\Debug\net6.0\ref\P01_NestedClass.dll

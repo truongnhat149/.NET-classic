@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\OOP\Overload\P01_OperatorOverload\bin\Debug\net6.0\P01_OperatorOverload.exe
+D:\Workspace\c-sharp\OOP\Overload\P01_OperatorOverload\bin\Debug\net6.0\P01_OperatorOverload.deps.json
+D:\Workspace\c-sharp\OOP\Overload\P01_OperatorOverload\bin\Debug\net6.0\P01_OperatorOverload.runtimeconfig.json
+D:\Workspace\c-sharp\OOP\Overload\P01_OperatorOverload\bin\Debug\net6.0\P01_OperatorOverload.dll
+D:\Workspace\c-sharp\OOP\Overload\P01_OperatorOverload\bin\Debug\net6.0\P01_OperatorOverload.pdb
+D:\Workspace\c-sharp\OOP\Overload\P01_OperatorOverload\obj\Debug\net6.0\P01_OperatorOverload.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\OOP\Overload\P01_OperatorOverload\obj\Debug\net6.0\P01_OperatorOverload.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\OOP\Overload\P01_OperatorOverload\obj\Debug\net6.0\P01_OperatorOverload.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\OOP\Overload\P01_OperatorOverload\obj\Debug\net6.0\P01_OperatorOverload.AssemblyInfo.cs
+D:\Workspace\c-sharp\OOP\Overload\P01_OperatorOverload\obj\Debug\net6.0\P01_OperatorOverload.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\OOP\Overload\P01_OperatorOverload\obj\Debug\net6.0\P01_OperatorOverload.dll
+D:\Workspace\c-sharp\OOP\Overload\P01_OperatorOverload\obj\Debug\net6.0\refint\P01_OperatorOverload.dll
+D:\Workspace\c-sharp\OOP\Overload\P01_OperatorOverload\obj\Debug\net6.0\P01_OperatorOverload.pdb
+D:\Workspace\c-sharp\OOP\Overload\P01_OperatorOverload\obj\Debug\net6.0\P01_OperatorOverload.genruntimeconfig.cache
+D:\Workspace\c-sharp\OOP\Overload\P01_OperatorOverload\obj\Debug\net6.0\ref\P01_OperatorOverload.dll

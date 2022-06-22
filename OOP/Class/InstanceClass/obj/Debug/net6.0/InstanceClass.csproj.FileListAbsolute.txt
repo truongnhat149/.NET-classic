@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\OOP\Class\InstanceClass\obj\Debug\net6.0\InstanceClass.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\OOP\Class\InstanceClass\obj\Debug\net6.0\InstanceClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\OOP\Class\InstanceClass\obj\Debug\net6.0\InstanceClass.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\OOP\Class\InstanceClass\obj\Debug\net6.0\InstanceClass.AssemblyInfo.cs
+D:\Workspace\c-sharp\OOP\Class\InstanceClass\obj\Debug\net6.0\InstanceClass.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\OOP\Class\InstanceClass\bin\Debug\net6.0\InstanceClass.exe
+D:\Workspace\c-sharp\OOP\Class\InstanceClass\bin\Debug\net6.0\InstanceClass.deps.json
+D:\Workspace\c-sharp\OOP\Class\InstanceClass\bin\Debug\net6.0\InstanceClass.runtimeconfig.json
+D:\Workspace\c-sharp\OOP\Class\InstanceClass\bin\Debug\net6.0\InstanceClass.dll
+D:\Workspace\c-sharp\OOP\Class\InstanceClass\bin\Debug\net6.0\InstanceClass.pdb
+D:\Workspace\c-sharp\OOP\Class\InstanceClass\obj\Debug\net6.0\InstanceClass.dll
+D:\Workspace\c-sharp\OOP\Class\InstanceClass\obj\Debug\net6.0\refint\InstanceClass.dll
+D:\Workspace\c-sharp\OOP\Class\InstanceClass\obj\Debug\net6.0\InstanceClass.pdb
+D:\Workspace\c-sharp\OOP\Class\InstanceClass\obj\Debug\net6.0\InstanceClass.genruntimeconfig.cache
+D:\Workspace\c-sharp\OOP\Class\InstanceClass\obj\Debug\net6.0\ref\InstanceClass.dll

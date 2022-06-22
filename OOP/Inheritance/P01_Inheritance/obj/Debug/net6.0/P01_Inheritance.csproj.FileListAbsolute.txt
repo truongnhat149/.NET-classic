@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\OOP\Inheritance\P01_Inheritance\bin\Debug\net6.0\P01_Inheritance.exe
+D:\Workspace\c-sharp\OOP\Inheritance\P01_Inheritance\bin\Debug\net6.0\P01_Inheritance.deps.json
+D:\Workspace\c-sharp\OOP\Inheritance\P01_Inheritance\bin\Debug\net6.0\P01_Inheritance.runtimeconfig.json
+D:\Workspace\c-sharp\OOP\Inheritance\P01_Inheritance\bin\Debug\net6.0\P01_Inheritance.dll
+D:\Workspace\c-sharp\OOP\Inheritance\P01_Inheritance\bin\Debug\net6.0\P01_Inheritance.pdb
+D:\Workspace\c-sharp\OOP\Inheritance\P01_Inheritance\obj\Debug\net6.0\P01_Inheritance.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\OOP\Inheritance\P01_Inheritance\obj\Debug\net6.0\P01_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\OOP\Inheritance\P01_Inheritance\obj\Debug\net6.0\P01_Inheritance.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\OOP\Inheritance\P01_Inheritance\obj\Debug\net6.0\P01_Inheritance.AssemblyInfo.cs
+D:\Workspace\c-sharp\OOP\Inheritance\P01_Inheritance\obj\Debug\net6.0\P01_Inheritance.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\OOP\Inheritance\P01_Inheritance\obj\Debug\net6.0\P01_Inheritance.dll
+D:\Workspace\c-sharp\OOP\Inheritance\P01_Inheritance\obj\Debug\net6.0\refint\P01_Inheritance.dll
+D:\Workspace\c-sharp\OOP\Inheritance\P01_Inheritance\obj\Debug\net6.0\P01_Inheritance.pdb
+D:\Workspace\c-sharp\OOP\Inheritance\P01_Inheritance\obj\Debug\net6.0\P01_Inheritance.genruntimeconfig.cache
+D:\Workspace\c-sharp\OOP\Inheritance\P01_Inheritance\obj\Debug\net6.0\ref\P01_Inheritance.dll

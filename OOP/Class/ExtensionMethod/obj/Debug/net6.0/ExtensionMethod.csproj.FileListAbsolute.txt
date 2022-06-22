@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\OOP\Class\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.exe
+D:\Workspace\c-sharp\OOP\Class\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.deps.json
+D:\Workspace\c-sharp\OOP\Class\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.runtimeconfig.json
+D:\Workspace\c-sharp\OOP\Class\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.dll
+D:\Workspace\c-sharp\OOP\Class\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.pdb
+D:\Workspace\c-sharp\OOP\Class\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\OOP\Class\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\OOP\Class\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\OOP\Class\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfo.cs
+D:\Workspace\c-sharp\OOP\Class\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\OOP\Class\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.dll
+D:\Workspace\c-sharp\OOP\Class\ExtensionMethod\obj\Debug\net6.0\refint\ExtensionMethod.dll
+D:\Workspace\c-sharp\OOP\Class\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.pdb
+D:\Workspace\c-sharp\OOP\Class\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.genruntimeconfig.cache
+D:\Workspace\c-sharp\OOP\Class\ExtensionMethod\obj\Debug\net6.0\ref\ExtensionMethod.dll

@@ -1,0 +1,5 @@
+D:\Workspace\c-sharp\OOP\Class\MyMath\obj\Debug\net6.0\MyMath.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\OOP\Class\MyMath\obj\Debug\net6.0\MyMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\OOP\Class\MyMath\obj\Debug\net6.0\MyMath.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\OOP\Class\MyMath\obj\Debug\net6.0\MyMath.AssemblyInfo.cs
+D:\Workspace\c-sharp\OOP\Class\MyMath\obj\Debug\net6.0\MyMath.csproj.CoreCompileInputs.cache
