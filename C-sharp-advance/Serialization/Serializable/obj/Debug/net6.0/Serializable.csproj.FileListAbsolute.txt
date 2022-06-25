@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\C-sharp-advance\Serialization\Serializable\bin\Debug\net6.0\Serializable.exe
+D:\Workspace\c-sharp\C-sharp-advance\Serialization\Serializable\bin\Debug\net6.0\Serializable.deps.json
+D:\Workspace\c-sharp\C-sharp-advance\Serialization\Serializable\bin\Debug\net6.0\Serializable.runtimeconfig.json
+D:\Workspace\c-sharp\C-sharp-advance\Serialization\Serializable\bin\Debug\net6.0\Serializable.dll
+D:\Workspace\c-sharp\C-sharp-advance\Serialization\Serializable\bin\Debug\net6.0\Serializable.pdb
+D:\Workspace\c-sharp\C-sharp-advance\Serialization\Serializable\obj\Debug\net6.0\Serializable.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\C-sharp-advance\Serialization\Serializable\obj\Debug\net6.0\Serializable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\C-sharp-advance\Serialization\Serializable\obj\Debug\net6.0\Serializable.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\C-sharp-advance\Serialization\Serializable\obj\Debug\net6.0\Serializable.AssemblyInfo.cs
+D:\Workspace\c-sharp\C-sharp-advance\Serialization\Serializable\obj\Debug\net6.0\Serializable.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\C-sharp-advance\Serialization\Serializable\obj\Debug\net6.0\Serializable.dll
+D:\Workspace\c-sharp\C-sharp-advance\Serialization\Serializable\obj\Debug\net6.0\refint\Serializable.dll
+D:\Workspace\c-sharp\C-sharp-advance\Serialization\Serializable\obj\Debug\net6.0\Serializable.pdb
+D:\Workspace\c-sharp\C-sharp-advance\Serialization\Serializable\obj\Debug\net6.0\Serializable.genruntimeconfig.cache
+D:\Workspace\c-sharp\C-sharp-advance\Serialization\Serializable\obj\Debug\net6.0\ref\Serializable.dll

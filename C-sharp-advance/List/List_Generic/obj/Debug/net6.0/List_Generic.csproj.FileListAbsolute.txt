@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\C-sharp-advance\List\List_Generic\bin\Debug\net6.0\List_Generic.exe
+D:\Workspace\c-sharp\C-sharp-advance\List\List_Generic\bin\Debug\net6.0\List_Generic.deps.json
+D:\Workspace\c-sharp\C-sharp-advance\List\List_Generic\bin\Debug\net6.0\List_Generic.runtimeconfig.json
+D:\Workspace\c-sharp\C-sharp-advance\List\List_Generic\bin\Debug\net6.0\List_Generic.dll
+D:\Workspace\c-sharp\C-sharp-advance\List\List_Generic\bin\Debug\net6.0\List_Generic.pdb
+D:\Workspace\c-sharp\C-sharp-advance\List\List_Generic\obj\Debug\net6.0\List_Generic.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\C-sharp-advance\List\List_Generic\obj\Debug\net6.0\List_Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\C-sharp-advance\List\List_Generic\obj\Debug\net6.0\List_Generic.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\C-sharp-advance\List\List_Generic\obj\Debug\net6.0\List_Generic.AssemblyInfo.cs
+D:\Workspace\c-sharp\C-sharp-advance\List\List_Generic\obj\Debug\net6.0\List_Generic.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\C-sharp-advance\List\List_Generic\obj\Debug\net6.0\List_Generic.dll
+D:\Workspace\c-sharp\C-sharp-advance\List\List_Generic\obj\Debug\net6.0\refint\List_Generic.dll
+D:\Workspace\c-sharp\C-sharp-advance\List\List_Generic\obj\Debug\net6.0\List_Generic.pdb
+D:\Workspace\c-sharp\C-sharp-advance\List\List_Generic\obj\Debug\net6.0\List_Generic.genruntimeconfig.cache
+D:\Workspace\c-sharp\C-sharp-advance\List\List_Generic\obj\Debug\net6.0\ref\List_Generic.dll

@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\OOP\Generic\GenericEx\bin\Debug\net6.0\GenericEx.exe
+D:\Workspace\c-sharp\OOP\Generic\GenericEx\bin\Debug\net6.0\GenericEx.deps.json
+D:\Workspace\c-sharp\OOP\Generic\GenericEx\bin\Debug\net6.0\GenericEx.runtimeconfig.json
+D:\Workspace\c-sharp\OOP\Generic\GenericEx\bin\Debug\net6.0\GenericEx.dll
+D:\Workspace\c-sharp\OOP\Generic\GenericEx\bin\Debug\net6.0\GenericEx.pdb
+D:\Workspace\c-sharp\OOP\Generic\GenericEx\obj\Debug\net6.0\GenericEx.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\OOP\Generic\GenericEx\obj\Debug\net6.0\GenericEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\OOP\Generic\GenericEx\obj\Debug\net6.0\GenericEx.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\OOP\Generic\GenericEx\obj\Debug\net6.0\GenericEx.AssemblyInfo.cs
+D:\Workspace\c-sharp\OOP\Generic\GenericEx\obj\Debug\net6.0\GenericEx.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\OOP\Generic\GenericEx\obj\Debug\net6.0\GenericEx.dll
+D:\Workspace\c-sharp\OOP\Generic\GenericEx\obj\Debug\net6.0\refint\GenericEx.dll
+D:\Workspace\c-sharp\OOP\Generic\GenericEx\obj\Debug\net6.0\GenericEx.pdb
+D:\Workspace\c-sharp\OOP\Generic\GenericEx\obj\Debug\net6.0\GenericEx.genruntimeconfig.cache
+D:\Workspace\c-sharp\OOP\Generic\GenericEx\obj\Debug\net6.0\ref\GenericEx.dll

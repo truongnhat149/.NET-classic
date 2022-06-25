@@ -1,0 +1,15 @@
+D:\Workspace\c-sharp\C-sharp-advance\List\ArrayList\bin\Debug\net6.0\ArrayList.exe
+D:\Workspace\c-sharp\C-sharp-advance\List\ArrayList\bin\Debug\net6.0\ArrayList.deps.json
+D:\Workspace\c-sharp\C-sharp-advance\List\ArrayList\bin\Debug\net6.0\ArrayList.runtimeconfig.json
+D:\Workspace\c-sharp\C-sharp-advance\List\ArrayList\bin\Debug\net6.0\ArrayList.dll
+D:\Workspace\c-sharp\C-sharp-advance\List\ArrayList\bin\Debug\net6.0\ArrayList.pdb
+D:\Workspace\c-sharp\C-sharp-advance\List\ArrayList\obj\Debug\net6.0\ArrayList.csproj.AssemblyReference.cache
+D:\Workspace\c-sharp\C-sharp-advance\List\ArrayList\obj\Debug\net6.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\c-sharp\C-sharp-advance\List\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfoInputs.cache
+D:\Workspace\c-sharp\C-sharp-advance\List\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfo.cs
+D:\Workspace\c-sharp\C-sharp-advance\List\ArrayList\obj\Debug\net6.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\Workspace\c-sharp\C-sharp-advance\List\ArrayList\obj\Debug\net6.0\ArrayList.dll
+D:\Workspace\c-sharp\C-sharp-advance\List\ArrayList\obj\Debug\net6.0\refint\ArrayList.dll
+D:\Workspace\c-sharp\C-sharp-advance\List\ArrayList\obj\Debug\net6.0\ArrayList.pdb
+D:\Workspace\c-sharp\C-sharp-advance\List\ArrayList\obj\Debug\net6.0\ArrayList.genruntimeconfig.cache
+D:\Workspace\c-sharp\C-sharp-advance\List\ArrayList\obj\Debug\net6.0\ref\ArrayList.dll
